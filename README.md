@@ -1,4 +1,4 @@
-# spotify_desktop
+# fake_api
 
 A new Flutter project.
 
